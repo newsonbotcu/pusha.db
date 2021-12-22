@@ -1,0 +1,61 @@
+{
+  "_args": [
+    [
+      "pusha.db@1.0.1",
+      "C:\\Users\\User\\OneDrive\\Desktop\\NixkThe Dosyası\\altyapı\\Ce\\tekcmd-bots-main"
+    ]
+  ],
+  "_from": "puhsa.db@1.0.1",
+  "_id": "pusha.db@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-wP0O8O1Tag75/sPOo6QJBVwE9o+/8ukUeDXGG2wQF2sB5b7sgmkO2ZyOU/sud+q9W3Jy5e1SUeD9WbK/c6QF0g==",
+  "_location": "/pusha.db",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "pusha.db@1.0.1",
+    "name": "pusha.db",
+    "escapedName": "pusha.db",
+    "rawSpec": "1.0.1",
+    "saveSpec": null,
+    "fetchSpec": "1.0.1"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/fera.db/-/fera.db-1.0.1.tgz",
+  "_spec": "1.0.1",
+  "_where": "C:\\Users\\User\\OneDrive\\Desktop\\NixkThe Dosyası\\altyapı\\Ce\\tekcmd-bots-main",
+  "author": {
+    "name": "Pusha"
+  },
+  "bugs": {
+    "url": "https://github.com/Zackiycik/fera.db/issues"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "description": "Hatasız küçük JSON temelli database modülü.",
+  "homepage": "https://github.com/Zackiycik/fera.db#readme",
+  "keywords": [
+    "database",
+    "discord.js",
+    "Pusha.db",
+    "json",
+    "jsondb",
+    "db",
+    "Zack"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "pusha.db",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zackiycik/fera.db.git"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "version": "1.0.1"
+}

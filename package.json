@@ -37,7 +37,7 @@
     "lodash": "^4.17.21"
   },
   "description": "Hatasız küçük JSON temelli database modülü.",
-  "homepage": "https://github.com/Zackiycik/fera.db#readme",
+  "homepage": "https://github.com/pushaaa/pusha.db#readme",
   "keywords": [
     "database",
     "discord.js",
@@ -52,7 +52,7 @@
   "name": "pusha.db",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Zackiycik/fera.db.git"
+    "url": "https://github.com/pushaaa/pusha.db.git"
   },
   "scripts": {
     "test": "node index.js"

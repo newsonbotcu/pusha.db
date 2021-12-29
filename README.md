@@ -52,4 +52,4 @@ db.deleteAll()
 ```
 
 ## İletişim
-`Pusha#1708`
+`† Pusha#1708`
